@@ -34,3 +34,8 @@ To test the app locally, follow the instructions below.
 ```bash
 git clone https://github.com/your-username/toxic-comment-classifier.git
 cd toxic-comment-classifier
+
+2. Run Using Command
+streamlit run app.py
+
+
